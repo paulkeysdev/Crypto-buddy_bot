@@ -31,7 +31,7 @@ CryptoBuddy relies on the `nltk` and `requests` libraries. You can install them 
 ```bash
 pip install nltk requests
 
-To test General Conversation and Greetings:
+## To test General Conversation and Greetings:
 
 "Hello"
 "How are you?"
@@ -43,7 +43,7 @@ To test General Conversation and Greetings:
 "Goodbye!"
 "What can you do?"
 "I have a question."
-To test Fun Phrases:
+## To test Fun Phrases:
 
 "Tell me a joke."
 "Do you love me?"
@@ -55,18 +55,15 @@ To test Fun Phrases:
 "Do you have a hobby?"
 "You're smart."
 "Tell me about your personality."
-To test Unhappy Phrases/Error Handling:
+## To test Unhappy Phrases/Error Handling:
 
-"You're annoying."
-"You suck!"
 "This is boring."
 "You're bad."
 "Are you crazy?"
 "I want to speak to a human."
 "Don't you speak English?"
-"I want the answer now!"
-"You're a !#$#% bot." (using a swear word)
-To test Pre-defined Test Questions:
+
+## To test Pre-defined Test Questions:
 
 "Are you human?"
 "Are you a robot?"
@@ -86,20 +83,10 @@ To test Pre-defined Test Questions:
 "Are you expensive?"
 "Who's your boss?"
 "Do you get smarter?"
-To test Core Crypto Advice Logic:
+## To test Core Crypto Advice Logic:
 
-"Which crypto is profitable?"
-"Recommend a good investment."
 "What's the best investment?"
 "Which crypto is sustainable?"
-"Tell me about eco-friendly cryptocurrencies."
-"Which crypto is green?"
-"Which crypto is trending up?"
 "Tell me about rising trend cryptos."
 "What is the most sustainable coin?"
-"Tell me about Bitcoin."
 "What is Ethereum?"
-"Tell me about Solana's price trend."
-"What's the market cap of Cardano?"
-"How much energy does Algorand use?"
-"What's the sustainability score of XRP?"
