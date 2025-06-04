@@ -16,6 +16,7 @@ Welcome to **CryptoBuddy**, an interactive AI chatbot designed to help you navig
 
 ---
 
+
 ## How to Get Started
 
 To run CryptoBuddy, follow these simple steps:
@@ -90,3 +91,7 @@ pip install nltk requests
 "Tell me about rising trend cryptos."
 "What is the most sustainable coin?"
 "What is Ethereum?"
+```
+** DEMO**
+![image alt](https://github.com/paulkeysdev/Crypto-buddy_bot/blob/a86770ed925e8562d8c840cee33ee582ce66fcd0/IMG/sample.png)
+
